@@ -1,0 +1,1 @@
+console.log(cube(5)); 
